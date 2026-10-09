@@ -1,0 +1,46 @@
+{
+  "packageId": "com.totalrecall.nursingexam",
+  "host": "ais-pre-feyqzsrg2jfxojgyhwhxlq-973543818512.asia-southeast1.run.app",
+  "name": "Total Recall - Nursing Exam Prep",
+  "launcherName": "Total Recall",
+  "themeColor": "#0f172a",
+  "navigationColor": "#0f172a",
+  "backgroundColor": "#0f172a",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/pwa-512x512.png",
+  "maskableIconUrl": "/pwa-maskable-512x512.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Daily Notes",
+      "short_name": "Notes",
+      "url": "/?tab=daily-notes",
+      "icon": "/pwa-192x192.png"
+    },
+    {
+      "name": "Subject Quizzes",
+      "short_name": "Quizzes",
+      "url": "/?tab=subject-quizzes",
+      "icon": "/pwa-192x192.png"
+    },
+    {
+      "name": "Order Book",
+      "short_name": "Buy Book",
+      "url": "/?tab=buy",
+      "icon": "/pwa-192x192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  }
+}

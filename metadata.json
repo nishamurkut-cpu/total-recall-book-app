@@ -1,0 +1,8 @@
+{
+  "name": "Remix Total Recall - Nursing Exam Prep \u0026 Companion",
+  "description": "Companion app and book store for Total Recall: One Stop Solution for All Nursing Competitive Exams by Kiran S. M. (Patil). Daily notes, quizzes, 20 subject tests, sample chapters, and UPI book ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
